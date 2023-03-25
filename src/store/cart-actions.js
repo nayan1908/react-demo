@@ -82,3 +82,4 @@ export const sendCartData = (cart) => {
     }
   };
 };
+
